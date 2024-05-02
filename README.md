@@ -33,7 +33,7 @@ hydra -l user -P four_digit_combinations.txt -t 4 -V -o hydra_output.txt ssh://t
 ### 2. Using SSH to Gain Control of a Host Computer
 Once the attacker has obtained valid credentials, they can use SSH to connect to the target host computer. The command to initiate an SSH connection is:
 ```bash
-ssh username@target_host
+ssh username@target_ip
 ```
 Upon connecting, SSH prompts for the password associated with the provided username. The attacker enters the obtained password.
 
