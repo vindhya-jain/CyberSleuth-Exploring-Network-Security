@@ -1,4 +1,4 @@
-# CyberSleuth-Exploring-Network-Security
+# CyberSleuth-ExploringNetworkSecurity
 ---
 ##### This project is intended to run on Kali Linux virtual machine.
 ### Instructions
