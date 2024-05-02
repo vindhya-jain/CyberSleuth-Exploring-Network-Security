@@ -16,5 +16,5 @@ ssh username@target_ip
 #Disabling GUI
 sudo systemctl isolate multi-user.target
 
-#Reenabling GUI
+#Re-enabling GUI
 sudo systemctl isolate graphical.target
