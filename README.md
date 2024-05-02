@@ -22,7 +22,7 @@ with open("four_digit_combinations.txt", "w") as f:
    	for i in range(10000):
        	f.write("{:04d}\n".format(i))
 ```
-Execute .py file
+Execute .py file in terminal
 ```bash
 python four_digit_generator.py
 ```
