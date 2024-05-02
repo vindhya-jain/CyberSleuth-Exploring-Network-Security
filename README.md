@@ -1,6 +1,6 @@
 # CyberSleuth-Exploring-Network-Security
 ---
-##### This project is intended to be run on Kali Linux virtual machine.
+##### This project is intended to run on Kali Linux virtual machine.
 ### Instructions
 To connect physical machines using Kali Linux on VirtualBox, we had to ensure that the virtual machines have access to the same network. A bridged adapter in networking connects the virtual machine directly to the physical network, enabling it to appear as a distinct device on the network, sharing the host's IP address. Once the VMs are connected, the following steps can be followed.
 ### 1. Password Decryption with Hydra
