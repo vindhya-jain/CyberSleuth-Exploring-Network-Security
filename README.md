@@ -9,7 +9,6 @@ We will use comprehensive collection of commonly used passwords, to aid in our p
 
 Navigate to this diectory:
 ```bash
-#!/bin/bash
 cd /usr/share/wordlists
 ```
 Run hydra to test different possible passwords.
